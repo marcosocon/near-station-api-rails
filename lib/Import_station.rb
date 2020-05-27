@@ -16,7 +16,7 @@ class ImportStation
       end
       file.close
     else
-      p '** File Dosent exists **'
+      p '** File Does not exists **'
     end
   end
 
